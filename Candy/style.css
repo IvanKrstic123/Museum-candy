@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(252, 213, 219);
+}
+.navbar { 
+    background-color: rgb(228, 187, 221);
+}
+nav ul li a {
+    text-transform: uppercase;
+    font-size: large;
+    color: white;
+    font-size: x-large;
+}
+nav ul li a:hover {
+    color: red;
+}
+#section-two .boja{
+    color: rgb(252, 128, 169);
+    line-height: 2.5;
+    font-size: medium;
+}
